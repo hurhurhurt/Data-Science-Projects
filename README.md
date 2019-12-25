@@ -1,1 +1,1 @@
-Here are some of the data science projects I've tinkered with in the past. 
+Here are some of the data science projects that I've worked with in the past. Working on more!
